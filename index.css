@@ -39,3 +39,14 @@ list-style-type: none;
     padding: 20px;
     text-align: center;
 }
+.hobby ol {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    }
+    ol{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
