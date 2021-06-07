@@ -5,16 +5,36 @@
     text-align: center;
 }
 .homepage{
-background-image: url(./profilephoto.png);
-background-repeat: no-repeat;
-color: aliceblue;
-height: 300px;
-width: 50%;
-margin-top: 2em;
-margin-bottom: 2em;
-padding: 2em;
-display:flexbox;
+
+}
+.container{
+background-color:teal;
+}
+.navigation ul{
+display: flex;
 flex-direction: row;
 justify-content: flex-end;
-background-color: blue;
+list-style-type: none;
+}
+/*    
+    .navigation{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    } */
+.profilephoto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    
+}
+.profilephoto img{
+    height: 250px;
+    width: 250px;
+
+}
+.homepage{
+    padding: 20px;
+    text-align: center;
 }
