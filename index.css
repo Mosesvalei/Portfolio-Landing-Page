@@ -9,6 +9,7 @@
 }
 .container{
 background-color:teal;
+padding: 10px;
 }
 .navigation ul{
 display: flex;
