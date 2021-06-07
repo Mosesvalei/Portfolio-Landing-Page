@@ -1,7 +1,7 @@
 # Portfolio 
 #### My Portfolio landing page, June 7, 2021. 
 #### By **Moses Valei Mwanzia**
-## This application tests my skills in HTML and CSS languages. These languages are basic for programming and highly desirable. The application is about my favorite band, Linkin Park. The application also familiarized use of git and Github as a webhost.
+## This application tests my skills in HTML and CSS languages. These languages are basic for programming and highly desirable. The application is about my portfolio landing page. The application also familiarized use of git and Github as a webhost.
 ## Setup/Installation Requirements
 * Visual Studio Code
 * Chrome browser
