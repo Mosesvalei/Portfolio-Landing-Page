@@ -5,11 +5,12 @@
     text-align: center;
 }
 .homepage{
-
+font-weight: 500;
 }
 .container{
 background-color:teal;
 padding: 10px;
+font-family: sans-serif;
 }
 .navigation ul{
 display: flex;
